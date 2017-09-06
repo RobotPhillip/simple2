@@ -9,6 +9,7 @@ The better approach when using Android Studio is to create a library, put it in 
 # Details
 The important parts are the following.
 
-The android/defaultConfig/minSdkVersion should be equal to or below the charles library minSdkVersion
+The android/defaultConfig/minSdkVersion should be equal to or below the charles library minSdkVersion.
+
 The one dependency to add the dependencies closure block in the app build.gradle is:
 compile 'com.robotsandpencils:charles-library:1.0'
