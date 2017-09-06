@@ -13,4 +13,4 @@ The android/defaultConfig/minSdkVersion should be equal to or below the charles 
 
 The one dependency to add the dependencies closure block in the app build.gradle is:
 
-  compile 'com.robotsandpencils:charles-library:1.0'
+    compile 'com.robotsandpencils:charles-library:1.0'
