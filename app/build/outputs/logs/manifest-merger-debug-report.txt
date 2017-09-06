@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.robotsandpencils:charles-library:1.0] /Users/pwray/.gradle/caches/transforms-1/files-1.1/charles-library-1.0.aar/d6a4f3717d2e2f205dbdd3ce4ce9dfc1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.volley:volley:1.0.0] /Users/pwray/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/55473fc9ef355d07f2b2897bb4d3788e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/cc19569d4851f7614505c35a846a9745/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/f6f5bb172107de820d94d7c37fbdc04b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f68f9bea3ab895a865d4ba3580a728de/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/c3aecfaf09847e2478d0fcc153b0ca05/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/c58a7cd24260c7e786b5d618849f3375/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/9d1062810d323ab75673cabc0a6e7a69/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/1b76452e91247350e9cba1612be4faf4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/9ee60037a9feb9fb2a3f12fce54c7d8c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/e35c9f0334dc6b2f0b675f455410f6a1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/532740e351bdc7e8ef474b540a0671dd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/9fa028c89652ef8e8b5c7dd7da5b6c48/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/825d20c3ae5c28547cc69ccf01e335be/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/04235a04072224225b6c19bc74e03b70/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:3:11-48
+		INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:8:5-25:19
+MERGED from [com.robotsandpencils:charles-library:1.0] /Users/pwray/.gradle/caches/transforms-1/files-1.1/charles-library-1.0.aar/d6a4f3717d2e2f205dbdd3ce4ce9dfc1/AndroidManifest.xml:11:5-81
+MERGED from [com.robotsandpencils:charles-library:1.0] /Users/pwray/.gradle/caches/transforms-1/files-1.1/charles-library-1.0.aar/d6a4f3717d2e2f205dbdd3ce4ce9dfc1/AndroidManifest.xml:11:5-81
+MERGED from [com.android.volley:volley:1.0.0] /Users/pwray/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/55473fc9ef355d07f2b2897bb4d3788e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/pwray/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/55473fc9ef355d07f2b2897bb4d3788e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/cc19569d4851f7614505c35a846a9745/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/cc19569d4851f7614505c35a846a9745/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/f6f5bb172107de820d94d7c37fbdc04b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/f6f5bb172107de820d94d7c37fbdc04b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f68f9bea3ab895a865d4ba3580a728de/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f68f9bea3ab895a865d4ba3580a728de/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/c3aecfaf09847e2478d0fcc153b0ca05/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/c3aecfaf09847e2478d0fcc153b0ca05/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/c58a7cd24260c7e786b5d618849f3375/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/c58a7cd24260c7e786b5d618849f3375/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/9d1062810d323ab75673cabc0a6e7a69/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/9d1062810d323ab75673cabc0a6e7a69/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/1b76452e91247350e9cba1612be4faf4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/1b76452e91247350e9cba1612be4faf4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/9ee60037a9feb9fb2a3f12fce54c7d8c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/9ee60037a9feb9fb2a3f12fce54c7d8c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/e35c9f0334dc6b2f0b675f455410f6a1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/e35c9f0334dc6b2f0b675f455410f6a1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/532740e351bdc7e8ef474b540a0671dd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/532740e351bdc7e8ef474b540a0671dd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/9fa028c89652ef8e8b5c7dd7da5b6c48/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/9fa028c89652ef8e8b5c7dd7da5b6c48/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/825d20c3ae5c28547cc69ccf01e335be/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/825d20c3ae5c28547cc69ccf01e335be/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/04235a04072224225b6c19bc74e03b70/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/04235a04072224225b6c19bc74e03b70/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:9:9-35
+	android:networkSecurityConfig
+		ADDED from [com.robotsandpencils:charles-library:1.0] /Users/pwray/.gradle/caches/transforms-1/files-1.1/charles-library-1.0.aar/d6a4f3717d2e2f205dbdd3ce4ce9dfc1/AndroidManifest.xml:11:18-78
+	android:theme
+		ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.robotandpencils.simple2.MainActivity
+ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml
+MERGED from [com.robotsandpencils:charles-library:1.0] /Users/pwray/.gradle/caches/transforms-1/files-1.1/charles-library-1.0.aar/d6a4f3717d2e2f205dbdd3ce4ce9dfc1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.robotsandpencils:charles-library:1.0] /Users/pwray/.gradle/caches/transforms-1/files-1.1/charles-library-1.0.aar/d6a4f3717d2e2f205dbdd3ce4ce9dfc1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.volley:volley:1.0.0] /Users/pwray/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/55473fc9ef355d07f2b2897bb4d3788e/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] /Users/pwray/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/55473fc9ef355d07f2b2897bb4d3788e/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/cc19569d4851f7614505c35a846a9745/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/cc19569d4851f7614505c35a846a9745/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/f6f5bb172107de820d94d7c37fbdc04b/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/f6f5bb172107de820d94d7c37fbdc04b/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f68f9bea3ab895a865d4ba3580a728de/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/f68f9bea3ab895a865d4ba3580a728de/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/c3aecfaf09847e2478d0fcc153b0ca05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/c3aecfaf09847e2478d0fcc153b0ca05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/c58a7cd24260c7e786b5d618849f3375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/c58a7cd24260c7e786b5d618849f3375/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/9d1062810d323ab75673cabc0a6e7a69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/9d1062810d323ab75673cabc0a6e7a69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/1b76452e91247350e9cba1612be4faf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/1b76452e91247350e9cba1612be4faf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/9ee60037a9feb9fb2a3f12fce54c7d8c/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/9ee60037a9feb9fb2a3f12fce54c7d8c/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/e35c9f0334dc6b2f0b675f455410f6a1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/e35c9f0334dc6b2f0b675f455410f6a1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/532740e351bdc7e8ef474b540a0671dd/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/532740e351bdc7e8ef474b540a0671dd/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/9fa028c89652ef8e8b5c7dd7da5b6c48/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/9fa028c89652ef8e8b5c7dd7da5b6c48/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/825d20c3ae5c28547cc69ccf01e335be/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/825d20c3ae5c28547cc69ccf01e335be/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/04235a04072224225b6c19bc74e03b70/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/04235a04072224225b6c19bc74e03b70/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/cc19569d4851f7614505c35a846a9745/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pwray/robots/simple2/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/cc19569d4851f7614505c35a846a9745/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/f6f5bb172107de820d94d7c37fbdc04b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/f6f5bb172107de820d94d7c37fbdc04b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/c3aecfaf09847e2478d0fcc153b0ca05/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.2.aar/c3aecfaf09847e2478d0fcc153b0ca05/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/c58a7cd24260c7e786b5d618849f3375/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.2.aar/c58a7cd24260c7e786b5d618849f3375/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/9d1062810d323ab75673cabc0a6e7a69/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.2.aar/9d1062810d323ab75673cabc0a6e7a69/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/1b76452e91247350e9cba1612be4faf4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/transition-26.0.2.aar/1b76452e91247350e9cba1612be4faf4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/9ee60037a9feb9fb2a3f12fce54c7d8c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.2.aar/9ee60037a9feb9fb2a3f12fce54c7d8c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/e35c9f0334dc6b2f0b675f455410f6a1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/e35c9f0334dc6b2f0b675f455410f6a1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/532740e351bdc7e8ef474b540a0671dd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.2.aar/532740e351bdc7e8ef474b540a0671dd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/9fa028c89652ef8e8b5c7dd7da5b6c48/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.2.aar/9fa028c89652ef8e8b5c7dd7da5b6c48/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/825d20c3ae5c28547cc69ccf01e335be/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.2.aar/825d20c3ae5c28547cc69ccf01e335be/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/04235a04072224225b6c19bc74e03b70/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.2.aar/04235a04072224225b6c19bc74e03b70/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/cc19569d4851f7614505c35a846a9745/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.0.2] /Users/pwray/.gradle/caches/transforms-1/files-1.1/design-26.0.2.aar/cc19569d4851f7614505c35a846a9745/AndroidManifest.xml:27:13-51

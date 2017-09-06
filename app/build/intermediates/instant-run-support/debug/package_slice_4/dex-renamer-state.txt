@@ -1,0 +1,4 @@
+#Wed Sep 06 13:46:18 MDT 2017
+base.0=/Users/pwray/robots/simple2/app/build/intermediates/transforms/dexMerger/debug/5
+renamed.0=classes.dex
+file.0=/Users/pwray/robots/simple2/app/build/intermediates/transforms/dexMerger/debug/5/classes.dex
