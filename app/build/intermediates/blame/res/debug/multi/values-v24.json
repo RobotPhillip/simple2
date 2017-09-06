@@ -4,7 +4,7 @@
             "outputFile": "/Users/pwray/robots/simple2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/pwray/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.1.aar/893a4123b3ff0d1bd68dd0ebef627a89/res/values-v24/values-v24.xml",
+                    "source": "/Users/pwray/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.2.aar/e35c9f0334dc6b2f0b675f455410f6a1/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/pwray/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.1.aar/88d8e2df56300e5861866b089de810bf/res/values-v24/values-v24.xml",
+                    "source": "/Users/pwray/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/f6f5bb172107de820d94d7c37fbdc04b/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
